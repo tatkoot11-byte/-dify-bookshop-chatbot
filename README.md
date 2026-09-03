@@ -17,7 +17,6 @@ https://udify.app/chat/1OMg7ny5fItNAOLr
 
 
 
-> Replace the placeholder above with the public Dify chatbot URL after publishing the app.
 
 
 
