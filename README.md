@@ -116,20 +116,12 @@ dify-bookshop-chatbot/
 ├── faq.md
 
 ├── system\_prompt.md
-
 └── screenshots/
-
-&#x20;   ├── 01\_app\_setup.png
-
-&#x20;   ├── 02\_knowledge\_attached.png
-
-&#x20;   ├── 03\_dify\_preview.png
-
-&#x20;   ├── 04\_conversation\_1.png
-
-&#x20;   ├── 05\_conversation\_2.png
-
-&#x20;   └── 06\_conversation\_3.png
+    ├── 01_app_setup.png
+    ├── 02_knowledge_attached.png
+    ├── 03_conversation_1.png
+    ├── 04_conversation_2.png
+    └── 05_conversation_3.png
 
 ```
 
@@ -138,19 +130,11 @@ dify-bookshop-chatbot/
 \## Screenshots
 
 
-
 The `screenshots/` folder contains evidence of:
 
-
-
-1\. Dify chatbot setup and preview.
-
-2\. Knowledge Base integration.
-
-3\. FAQ conversations using the public chatbot.
-
-
-
+1. Dify chatbot setup.
+2. Knowledge Base integration.
+3. Three FAQ conversations using the public chatbot.
 \## How to Recreate
 
 
